@@ -19,3 +19,5 @@
 那就要改成https://cdn.jsdelivr.net/gh/MCSeekeri/SGCDN@master/files/Another%20Heaven%20-%20%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93.mp3
 
 这样就OK了!
+
+初次访问可能有点慢,因为没缓存,之后任何时候访问都会直接走缓存力（
